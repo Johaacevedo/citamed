@@ -8,7 +8,7 @@
       
       <div>
         <button type="button" class="btn btn-outline-info">Login</button>
-        <button type="button" class="btn btn-outline-secondary">Registrate</button>
+        <button type="button" class="btn btn-outline-primary">Registrate</button>
       </div>
 
     </div>
