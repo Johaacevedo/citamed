@@ -18,4 +18,3 @@ return Application::configure(basePath: dirname(__DIR__))
     })->create();
 
 
-    el programa corre, pero hay queries, como agrego la database
